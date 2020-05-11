@@ -1,8 +1,8 @@
 # FindXSS
 FindXSS is a brute forcer for a Cross-Site Scripting
 
-Facebook : https://fb.me/novan.rmd1
-Instagram : https://instagram.com/novan.rmd
+Facebook : https://fb.me/Rendi
+Instagram : https://instagram.com/mr.xploit13
 
 ###Requirements:
 
@@ -24,7 +24,7 @@ How to install :
 1. apt-get install git
 2. apt-get install pip2
 3. apt-get install python2
-4. git clone https://github.com/novanaziz/FindXSS
+4. git clone https://github.com/Mrxploit13/XssAttack
 5. cd FindXSS
 6. python2 FindXSS.py
 
