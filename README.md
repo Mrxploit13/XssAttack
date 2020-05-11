@@ -1,7 +1,6 @@
 # FindXSS
 FindXSS is a brute forcer for a Cross-Site Scripting
 
-Facebook : https://fb.me/Rendi
 Instagram : https://instagram.com/mr.xploit13
 
 ###Requirements:
