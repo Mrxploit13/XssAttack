@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #!Cross Site Scripting Finder
-#!Author: Novan Aziz Ramadhan
+#!Author: Rendi H
 #!Copyrighted by : ©Shawar Khan
 
 from string import whitespace
@@ -29,7 +29,7 @@ banner = """
 
 
 FindXSS - Cross Site Scripting Finder
-Author : Novan Aziz Ramadhan - Mr.Colded
+Author : Rendi H - Mr.xploit13
 Note : Create your own wordlist payloads for the best result
 
 """
